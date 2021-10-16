@@ -1,8 +1,8 @@
-red
-orange
-yellow
-green
-blue
-indigo
-violet
+(red rojo)
+(orange naranja)
+(yellow amarillo)
+(green verde)
+(blue azul)
+(indigo indigo)
+(violet violeta)
 
